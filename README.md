@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infinity-decoder
+- 👋 Hi, I’m INFINITY DECODER
 - 👀 I’m interested in Python, C++, Android and Web development.
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate after a year 
