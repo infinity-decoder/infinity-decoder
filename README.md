@@ -6,27 +6,48 @@
 </h1>
 
 > “Decode Complexity. Automate Reality. Teach Infinity.” – `Infinity Decoder`
-## 🛰️ SOCIAL LINKS
+
+
+## 🛰️ Connect
 
 <p align="center">
-  <a href="https://profile.infinitydecoder.com" target="_blank">
-    <img alt="Infinity Decoder" src="https://img.shields.io/badge/🧠_Portfolio-infinitydecoder.com-00FFD1?style=for-the-badge&logo=cloudflare" />
-  </a>
-  <a href="https://notes.infinitydecoder.com" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/✍️_Blog-Notes_Archive-007ACC?style=for-the-badge&logo=readthedocs" />
-  </a>
-  <a href="https://github.com/infinitydecoder" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/🐙_GitHub-infinitydecoder-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/infinitydecoder" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/infinitydecoder" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/📸_Instagram-infinitydecoder-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
+
+<a href="https://www.credly.com/users/infinitydecoder" target="_blank">
+  <img alt="Credly" src="https://img.shields.io/badge/🏅_Digital_Badges-Credly-blue?style=for-the-badge&logo=badge" />
+</a>
+
+<a href="https://www.kaggle.com/infinitydecoder" target="_blank">
+  <img alt="Kaggle" src="https://img.shields.io/badge/📊_Kaggle_Squad-orange?style=for-the-badge&logo=kaggle" />
+</a>
+<a href="https://pk.linkedin.com/in/infinitydecoder" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn~Network-yellow?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.facebook.com/me.infinitydecoder" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/📘_Facebook~Base-green?style=for-the-badge&logo=facebook" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/infinitydecoder/" target="_blank">
+  <img alt="Microsoft" src="https://img.shields.io/badge/🎓_Microsoft_Lab-blue?style=for-the-badge&logo=microsoft" />
+</a>
+<a href="https://www.coursera.org/learner/infinitydecoder" target="_blank">
+  <img alt="Coursera" src="https://img.shields.io/badge/📚_Coursera_Arc-indigo?style=for-the-badge&logo=coursera" />
+</a>
+<a href="https://infinitydecoder.com/" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/🌐_Home~Base-black?style=for-the-badge&logo=wordpress" />
+</a>
+<a href="https://profile.infinitydecoder.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/🌌_Digital_Identity-00FFD1?style=for-the-badge&logo=cloudflare" />
+</a>
+<a href="https://notes.infinitydecoder.com" target="_blank">
+  <img alt="Blog" src="https://img.shields.io/badge/📝_Infinity~Logs-007ACC?style=for-the-badge&logo=readthedocs" />
+</a>
+<a href="https://instagram.com/infinity_decoder" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/🎨_Insta~Gallery-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
 </p>
 
 ---
+
 ## 👨‍💻 SYSTEM IDENTITY
 ```shell
 ┌──(root💀infinity)-[~]
@@ -108,3 +129,7 @@ infinity-decoder/infinity-decoder is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ![Profile views](https://komarev.com/ghpvc/?username=infinity-decoder&style=flat-square&color=green)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer&animation=twinkling"/>
+</p>
