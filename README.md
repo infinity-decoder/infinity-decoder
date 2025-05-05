@@ -1,9 +1,10 @@
 <!-- Cyber Terminal Inspired Markdown Profile by Infinity Decoder -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=6000&pause=1000000&color=00BFFF&center=true&width=700&lines=INFINITY+DECODER+🤖+ACTIVATING+CORE" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=500&pause=500&color=00BFFF&center=true&width=150&lines=..." alt="Typing dots" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&duration=6000&pause=1000000&color=00BFFF&center=true&width=700&lines=INFINITY+DECODER+🤖+ACTIVATING+CORE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&duration=500&pause=500&color=00BFFF&center=true&width=150&lines=..." alt="Typing dots" />
 </h1>
+
 
 > “Decode Complexity. Automate Reality. Teach Infinity.” – `Infinity Decoder`
 
