@@ -125,6 +125,19 @@ while True:
 > 🌐 Cyber Identity: [🪪 profile.infinitydecoder.com](https://profile.infinitydecoder.com)
 
 ---
+## 📊 GITHUB METRICS & ANALYTICS
+
+### GitHub Readme Stats (Radial Theme)
+![infinity-decoder GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinity-decoder&show_icons=true&theme=radial)
+
+### GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinity-decoder&theme=tokyonight)
+
+### Top Languages Card (Compact Layout)
+![Compact Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-decoder&layout=compact&theme=vision-friendly-dark)
+
+### Profile Trophy Showcase
+[![Trophies](https://github-profile-trophy.vercel.app/?username=infinity-decoder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 infinity-decoder/infinity-decoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
