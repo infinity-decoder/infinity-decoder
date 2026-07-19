@@ -84,8 +84,13 @@
 </div>
 
 ###  Blockchain
+<!-- Chains -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,nodejs,react,nextjs,npm,yarn," />
+<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="48" />
+<img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="48" />
+<img src="https://cdn.simpleicons.org/solana/9945FF" height="48" />
+<img src="https://cdn.simpleicons.org/polygon/8247E5" height="48" />
+<img src="https://skillicons.dev/icons?i=solidity,nodejs,react,nextjs,npm,yarn," />
 </p>
 ---
 ## 🧪 TECH PHILOSOPHY
