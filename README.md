@@ -76,28 +76,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-plain-wordmark.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"" width="48" height="48"/> 
 </div>
 
- <div align="center">
-   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-plain-wordmark.svg" alt="Kali Linux" width="45" height="45" style="margin-right: 10px;" />
-  
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" width="45" height="45" style="margin-right: 10px;" />
-  
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Containers" width="45" height="45" style="margin-right: 10px;" />
-  
-  
- 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang Tools" width="45" height="45" style="margin-right: 10px;" />
-
- 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Scripting" width="45" height="45" />
-  
-</div>
 ---
 ## 🧪 TECH PHILOSOPHY
 
