@@ -87,6 +87,43 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,aws,azure,gcp,cloudflare,nginx,prometheus,grafana" />
 </p>
 
+### Cyber Security
+
+<p align="left">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=kali" />
+
+  <!-- Simple Icons -->
+  <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security OS"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/nmap/214478" height="48" alt="Nmap"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
+  <img src="https://cdn.simpleicons.org/torproject/7D4698" height="48" alt="Tor"/>
+  <img src="https://cdn.simpleicons.org/gnupg/0093DD" height="48" alt="GnuPG"/>
+  <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="48" alt="Let's Encrypt"/>
+</p>
+
+### 🛢️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+</p>
+
+### Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+</p>
+
+
 ---
 ## 🧪 TECH PHILOSOPHY
 
