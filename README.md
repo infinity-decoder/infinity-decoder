@@ -92,6 +92,14 @@
 <img src="https://cdn.simpleicons.org/polygon/8247E5" height="48" />
 <img src="https://skillicons.dev/icons?i=solidity,nodejs,react,nextjs,npm,yarn," />
 </p>
+
+### DevOps
+# 🔐 CEH / Cyber Security
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,java,js,nodejs,docker,kubernetes,git,github,githubactions,aws,azure,gcp,nginx,postgres,mysql,mongodb,sqlite,redis,vscode,vim,neovim,powershell,regex" />
+</p>
+
 ---
 ## 🧪 TECH PHILOSOPHY
 
