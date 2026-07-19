@@ -63,36 +63,21 @@
 
 ```
 
----
 
-## 📂 FEATURED PROJECTS
-
-- 🔐 **Real-Time Network Intrusion Detection System.**
-  
-```bash
-~/FYP$ cat "Real-Time Network Intrusion Detection"
-> Ensemble learning + Wireshark + PCAP analytics = ⚔️ Cyber Shield
-
-📁 Stack: Django • Python • TabNet • CatBoost • LightGBM • XGBoost
-📈 Data Pipelines: Raw PCAP ➡ CSV ➡ ML ➡ Real-Time Web App
-🧠 Hosted locally & GitHub ready
-```
-
-- ⚙️ **WordPress Plugin – Markdown Master**: Render Math, Quizzes, and Syntax with Ease.
-- 📊 **CyberSec Dashboard** with `Streamlit`, `Pandas`, and `Numpy`.
-
----
 ## ⚙️ TOOLS & TECH STACK
 
 <div align="center">
+### AI / ML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 
-| Languages | Tools/Frameworks | Tech/Environments |
-|----------|------------------|-------------------|
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="24"/> `Python` | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" width="24"/> `Django` | 🐧 `Linux (Ubuntu, Kali)` |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24"/> `HTML5` | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" width="24"/> `WordPress Dev` | ☁️ `GitHub, Git, Replit` |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24"/> `JS` | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="24"/> `VS Code` | 📦 `PCAP, Wireshark` |
-| <img src="https://img.shields.io/badge/XGBoost-grey?logo=apachespark&logoColor=F90" height="20"/> `XGBoost` | <img src="https://img.shields.io/badge/CatBoost-grey?logo=cat&logoColor=yellow" height="20"/> `CatBoost` | 🤖 `LightGBM, TabNet` |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="24"/> `NumPy` | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="24"/> `Pandas` | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="24"/> `Scikit-learn` |
 
 </div>
 
