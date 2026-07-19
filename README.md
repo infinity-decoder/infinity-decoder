@@ -80,11 +80,11 @@
 </div>
 
 <p align="center">
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
-           
+ 
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-plain-wordmark.svg" alt="Kali Linux" width="45" height="45" style="margin-right: 10px;" />
   </a>
+  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" width="45" height="45" style="margin-right: 10px;" />
   </a>
