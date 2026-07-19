@@ -79,8 +79,7 @@
 
 </div>
 
-<p align="center">
- 
+ <div align="center">
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-plain-wordmark.svg" alt="Kali Linux" width="45" height="45" style="margin-right: 10px;" />
   </a>
@@ -100,8 +99,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Scripting" width="45" height="45" />
   </a>
-</p>
-
+</div>
 ---
 ## 🧪 TECH PHILOSOPHY
 
