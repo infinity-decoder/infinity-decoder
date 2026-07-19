@@ -66,8 +66,20 @@
 
 ## ⚙️ TOOLS & TECH STACK
 ### ML / AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,sklearn,kali,go" />
+<p align="left"><p align="left">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn,jupyter,numpy,pandas" />
+
+  <!-- Simple Icons -->
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly"/>
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="48" alt="Seaborn"/>
+  <img src="https://cdn.simpleicons.org/xgboost/EE4C2C" height="48" alt="XGBoost"/>
+  <img src="https://cdn.simpleicons.org/lightgbm/02569B" height="48" alt="LightGBM"/>
+  <img src="https://cdn.simpleicons.org/catboost/FFCC00" height="48" alt="CatBoost"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" alt="MLflow"/>
+  
+</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 </p>
 
@@ -102,7 +114,6 @@
   <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
   <img src="https://cdn.simpleicons.org/torproject/7D4698" height="48" alt="Tor"/>
-  <img src="https://cdn.simpleicons.org/gnupg/0093DD" height="48" alt="GnuPG"/>
   <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="48" alt="Let's Encrypt"/>
 </p>
 
