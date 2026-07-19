@@ -125,25 +125,23 @@ while True:
 > 🌐 Cyber Identity: [🪪 profile.infinitydecoder.com](https://profile.infinitydecoder.com)
 
 ---
-## 📊 GITHUB METRICS & ANALYTICS
+## 📊 GITHUB METRICS 
 
-### GitHub Readme Stats (Radial Theme)
-![infinity-decoder GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinity-decoder&show_icons=true&theme=radial)
 
 ### GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinity-decoder&theme=tokyonight)
 
-### Top Languages Card (Compact Layout)
-![Compact Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-decoder&layout=compact&theme=vision-friendly-dark)
 
-### Profile Trophy Showcase
-[![Trophies](https://github-profile-trophy.vercel.app/?username=infinity-decoder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+### Activity Graph Wave
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinity-decoder&theme=github-dark)
+
 <!---
 infinity-decoder/infinity-decoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Profile views](https://komarev.com/ghpvc/?username=infinity-decoder&style=flat-square&color=green)
-
+![Visitor Metric Counter](https://komarev.com/ghpvc/?username=infinity-decoder&color=blueviolet&style=flat-square)
+### Daily Dev Joke
+![Dynamic Tech Joke](https://readme-jokes.vercel.app/api?theme=radical)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer&animation=twinkling"/>
 </p>
