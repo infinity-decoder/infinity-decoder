@@ -74,10 +74,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" width="48" height="48" alt="Seaborn"/>
-<img src="https://www.vectorlogo.zone/logos/xgboost/xgboost-icon.svg" width="48" height="48" alt="XGBoost"/>
-<img src="https://www.vectorlogo.zone/logos/lightgbm/lightgbm-icon.svg" width="48" height="48" alt="LightGBM"/>
-<img src="https://www.vectorlogo.zone/logos/catboost/catboost-icon.svg" width="48" height="48" alt="CatBoost"/>
+
 </p>
 
 ###  Blockchain
@@ -93,7 +90,10 @@
 ### DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,nginx,prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,nginx,prometheus" />
 </p>
 
 ### Cyber Security
@@ -106,7 +106,6 @@
   <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security OS"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
-  <img src="https://cdn.simpleicons.org/nmap/214478" height="48" alt="Nmap"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
