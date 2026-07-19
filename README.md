@@ -67,7 +67,8 @@
 ## ⚙️ TOOLS & TECH STACK
 ### ML / AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,numpy,pandas,sklearn,kali,go" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,sklearn,kali,go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 </p>
 
 ###  Blockchain
