@@ -79,9 +79,11 @@
 
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaliimages/kaliimages-original.svg" alt="Kali Linux" width="45" height="45" style="background-color: #212529; padding: 4px; border-radius: 6px; margin-right: 10px;" />
+    
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
+           
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" width="45" height="45" style="margin-right: 10px;" />
