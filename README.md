@@ -64,72 +64,119 @@
 ```
 
 
+
 ## ⚙️ TOOLS & TECH STACK
+
 ### ML / AI
 <p align="left">
-  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit Learn"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/>
+
+
 
 </p>
 
-###  Blockchain
-<!-- Chains -->
+### Blockchain
+
 <p align="left">
-<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="48" />
-<img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="48" />
-<img src="https://cdn.simpleicons.org/solana/9945FF" height="48" />
-<img src="https://cdn.simpleicons.org/polygon/8247E5" height="48" />
-<img src="https://skillicons.dev/icons?i=solidity" />
+
+<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
+<img src="./assets/icons/metamask.svg" width="48" height="48" alt="MetaMask"/>
+<img src="./assets/icons/truffle.svg" width="48" height="48" alt="Truffle"/>
+<img src="./assets/icons/ganache.svg" width="48" height="48" alt="Ganache"/>
+<img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="48"/>
+<img src="https://cdn.simpleicons.org/solana/9945FF" height="48"/>
+<img src="https://cdn.simpleicons.org/polygon/8247E5" height="48"/>
+
+
 </p>
 
 ### DevOps
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,nginx,prometheus" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="Digital Ocean" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azuredevops"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus"/>
+
 </p>
 
 ### Cyber Security
 
 <p align="left">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
 
-  <!-- Simple Icons -->
-  <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security OS"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
-  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
-  <img src="https://cdn.simpleicons.org/torproject/7D4698" height="48" alt="Tor"/>
-  <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="48" alt="Let's Encrypt"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux"/>
+<img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
+<img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+<img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
+<img src="https://cdn.simpleicons.org/torproject/7D4698" height="48" alt="Tor"/>
+<img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="48" alt="Let's Encrypt"/>
+
 </p>
 
 ### 🛢️ Databases
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+
 </p>
 
 ### Languages
+
 <p align="left">
-  
-  <img src="https://skillicons.dev/icons?i=bash,powershell,py,go,c,cpp,rust,solidity,html,css,js,php,ts,nodejs,nextjs,react,npm" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm"/>
 
 </p>
-
-
 ---
 ## 🧪 TECH PHILOSOPHY
 
@@ -169,13 +216,11 @@ while True:
 ### Activity Graph Wave
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinity-decoder&theme=github-dark)
 
-<!---
-infinity-decoder/infinity-decoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ![Visitor Metric Counter](https://komarev.com/ghpvc/?username=infinity-decoder&color=blueviolet&style=flat-square)
 ### Daily Dev Joke
 ![Dynamic Tech Joke](https://readme-jokes.vercel.app/api?theme=radical)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer&animation=twinkling"/>
 </p>
