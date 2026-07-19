@@ -83,6 +83,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"" width="48" height="48"/> 
 </div>
 
+###  Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,nodejs,react,nextjs,npm,yarn," />
+</p>
 ---
 ## 🧪 TECH PHILOSOPHY
 
