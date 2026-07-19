@@ -58,8 +58,8 @@
 ┌──(root💀infinity)-[~]
 └─$ neofetch
 » Mahboob Alam aka INFINITY DECODER
-🧠 Psychologist | 🧪 Teacher | 🌐 WordPress Dev | ⚙️ Software Engineer (BSSE)
-🚀 Lifelong Learner | 🤖 AI Automator | 🛡️ Cybersecurity Explorer
+  🌐 DevOps | ⚙️ Software Engineer (BSSE)
+🚀 Blockchain | 🤖 AI Automator | 🛡️ Cybersecurity Explorer
 
 ```
 
@@ -68,12 +68,16 @@
 ### ML / AI
 <p align="left">
   
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" width="48" height="48" alt="Seaborn"/>
+<img src="https://www.vectorlogo.zone/logos/xgboost/xgboost-icon.svg" width="48" height="48" alt="XGBoost"/>
+<img src="https://www.vectorlogo.zone/logos/lightgbm/lightgbm-icon.svg" width="48" height="48" alt="LightGBM"/>
+<img src="https://www.vectorlogo.zone/logos/catboost/catboost-icon.svg" width="48" height="48" alt="CatBoost"/>
 </p>
 
 ###  Blockchain
@@ -89,14 +93,14 @@
 ### DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,aws,azure,gcp,cloudflare,nginx,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,nginx,prometheus" />
 </p>
 
 ### Cyber Security
 
 <p align="left">
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=kali" />
+  <img src="https://skillicons.dev/icons?i=kali,linux" />
 
   <!-- Simple Icons -->
   <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security OS"/>
