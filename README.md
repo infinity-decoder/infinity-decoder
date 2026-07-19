@@ -94,10 +94,9 @@
 </p>
 
 ### DevOps
-# 🔐 CEH / Cyber Security
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,java,js,nodejs,docker,kubernetes,git,github,githubactions,aws,azure,gcp,nginx,postgres,mysql,mongodb,sqlite,redis,vscode,vim,neovim,powershell,regex" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github,gitlab,githubactions,jenkins,terraform,ansible,aws,azure,gcp,cloudflare,nginx,prometheus,grafana" />
 </p>
 
 ---
