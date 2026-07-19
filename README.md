@@ -68,14 +68,9 @@
 ### ML / AI
 <p align="left">
   
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn,jupyter,numpy,pandas" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48" alt="Matplotlib"/>
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="48" alt="Seaborn"/>
-  <img src="https://cdn.simpleicons.org/xgboost/EE4C2C" height="48" alt="XGBoost"/>
-  <img src="https://cdn.simpleicons.org/lightgbm/02569B" height="48" alt="LightGBM"/>
-  <img src="https://cdn.simpleicons.org/catboost/FFCC00" height="48" alt="CatBoost"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" alt="MLflow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,sklearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
@@ -88,7 +83,7 @@
 <img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="48" />
 <img src="https://cdn.simpleicons.org/solana/9945FF" height="48" />
 <img src="https://cdn.simpleicons.org/polygon/8247E5" height="48" />
-<img src="https://skillicons.dev/icons?i=solidity,nodejs,react,nextjs,npm,yarn," />
+<img src="https://skillicons.dev/icons?i=solidity" />
 </p>
 
 ### DevOps
@@ -127,7 +122,7 @@
 ### Languages
 <p align="left">
   
-  <img src="https://skillicons.dev/icons?i=bash,powershell,py,go,c,cpp,rust,solidity,html,css,js,ts,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell,py,go,c,cpp,rust,solidity,html,css,js,php,ts,nodejs,nextjs,react,npm" />
 
 </p>
 
