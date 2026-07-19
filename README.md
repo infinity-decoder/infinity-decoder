@@ -117,10 +117,9 @@
 
 ### Languages
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+  
+  <img src="https://skillicons.dev/icons?i=bash,powershell,py,go,c,cpp,rust,solidity,html,css,js,ts,nodejs,nextjs" />
+
 </p>
 
 
