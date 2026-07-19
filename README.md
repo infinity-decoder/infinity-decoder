@@ -80,25 +80,23 @@
 </div>
 
  <div align="center">
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-plain-wordmark.svg" alt="Kali Linux" width="45" height="45" style="margin-right: 10px;" />
-  </a>
   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  
+  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  
+  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Containers" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Scripting" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+  
+  
+ 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Golang Tools" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+
+ 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Scripting" width="45" height="45" />
-  </a>
+  
 </div>
 ---
 ## 🧪 TECH PHILOSOPHY
