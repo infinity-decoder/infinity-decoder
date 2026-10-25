@@ -1,75 +1,52 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=42&duration=4000&pause=1000000&color=7C3AED&center=true&vCenter=true&width=820&lines=INFINITY+DECODER" alt="Infinity Decoder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=42&duration=4000&pause=1000000&color=8B5CF6&center=true&vCenter=true&width=820&lines=INFINITY+DECODER" alt="Infinity Decoder" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000000&color=A78BFA&center=true&vCenter=true&width=290&lines=ACTIVATING+CORE" alt="Activating Core" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=500&pause=500&color=A78BFA&center=true&vCenter=true&width=85&lines=..." alt="Loading dots" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000000&color=22D3EE&center=true&vCenter=true&width=920&lines=SOFTWARE+ENGINEER%2C+DEVOPS+ENGINEER+%26+OFFENSIVE+SECURITY+PROFESSIONAL" alt="Software Engineering, DevOps Engineer, and Offensive Security Professional" />
 </h1>
 
 
-> “Decode Complexity. Automate Reality. Teach Infinity.” – `Infinity Decoder`
+> “>_ Terminal is my battleground & Code flows in My DNA” — `Infinity Decoder`
 
 
-## 🛰️ Connect
+## Connect
 
 <p align="center">
-
-<a href="https://www.credly.com/users/infinitydecoder" target="_blank">
-  <img alt="Credly" src="https://img.shields.io/badge/🏅_Digital_Badges-Credly-blue?style=for-the-badge&logo=badge" />
-</a>
-
-<a href="https://www.kaggle.com/infinitydecoder" target="_blank">
-  <img alt="Kaggle" src="https://img.shields.io/badge/📊_Kaggle_Squad-orange?style=for-the-badge&logo=kaggle" />
-</a>
-<a href="https://pk.linkedin.com/in/infinitydecoder" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn~Network-yellow?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.facebook.com/me.infinitydecoder" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/📘_Facebook~Base-green?style=for-the-badge&logo=facebook" />
-</a>
-<a href="https://learn.microsoft.com/en-us/users/infinitydecoder/" target="_blank">
-  <img alt="Microsoft" src="https://img.shields.io/badge/🎓_Microsoft_Lab-blue?style=for-the-badge&logo=microsoft" />
-</a>
-<a href="https://www.coursera.org/learner/infinitydecoder" target="_blank">
-  <img alt="Coursera" src="https://img.shields.io/badge/📚_Coursera_Arc-indigo?style=for-the-badge&logo=coursera" />
-</a>
-<a href="https://infinitydecoder.com/" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/🌐_Home~Base-black?style=for-the-badge&logo=wordpress" />
-</a>
-<a href="https://profile.infinitydecoder.com" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/🌌_Digital_Identity-00FFD1?style=for-the-badge&logo=cloudflare" />
-</a>
-<a href="https://notes.infinitydecoder.com" target="_blank">
-  <img alt="Blog" src="https://img.shields.io/badge/📝_Infinity~Logs-007ACC?style=for-the-badge&logo=readthedocs" />
-</a>
-<a href="https://instagram.com/infinity_decoder" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/🎨_Insta~Gallery-E4405F?style=for-the-badge&logo=instagram" />
-</a>
-
+  <a href="https://www.credly.com/users/infinitydecoder"><img alt="Credly certifications" src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>&nbsp;
+  <a href="https://www.kaggle.com/infinitydecoder"><img alt="Kaggle profile" src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
+  <a href="https://pk.linkedin.com/in/infinitydecoder"><img alt="LinkedIn professional profile" src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.facebook.com/me.infinitydecoder"><img alt="Facebook profile" src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/infinitydecoder/"><img alt="Microsoft Learn profile" src="https://img.shields.io/badge/Microsoft_Learn-Profile-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;
+  <a href="https://www.coursera.org/learner/infinitydecoder"><img alt="Coursera learner profile" src="https://img.shields.io/badge/Coursera-Learner_Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>&nbsp;
+  <a href="https://infinitydecoder.com/"><img alt="Personal website" src="https://img.shields.io/badge/Website-Portfolio-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;
+  <a href="https://profile.infinitydecoder.com"><img alt="Digital identity portfolio" src="https://img.shields.io/badge/Portfolio-Digital_Identity-0891B2?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>&nbsp;
+  <a href="https://notes.infinitydecoder.com"><img alt="Technical blog" src="https://img.shields.io/badge/Technical_Blog-Infinity_Decoder-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/infinity_decoder"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-## 👨‍💻 SYSTEM IDENTITY
+## Professional Profile
 ```shell
-┌──(root💀infinity)-[~]
+┌─[ INFINITY DECODER ]
 └─$ whoami
-» INFINITY DECODER
+   INFINITY DECODER
 
-┌──(root💀infinity)-[~]
+┌─[ PROFILE ]
 └─$ neofetch
-» Mahboob Alam >> INFINITY DECODER
-  |DevOps Engineer      |Software Engineer (BSSE)
-  |Blockchain Developer | Cybersecurity Explorer
 
+┌─[ PROFESSIONAL PROFILE ]
+├─$ name
+│  Mahboob Alam
+├─$ qualifications
+│  Software Engineer (BSSE) · DevOps Engineer
+└─$ specialization
+   Penetration Tester · Cybersecurity Explorer
 ```
 
 
+## Technology Stack
 
-## ⚔️ TACTICAL ARSENAL 
-
-### 01. MACHINE LEARNING
+### 01 · Machine Learning
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
@@ -81,56 +58,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/>
-
-
-
 </p>
 
-### 02. BLOCKCHAIN 
 
+### 02 · Cybersecurity
 <p align="left">
-
-<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
-<img src="./assets/icons/metamask.svg" width="48" height="48" alt="MetaMask"/>
-<img src="./assets/icons/truffle.svg" width="48" height="48" alt="Truffle"/>
-<img src="./assets/icons/ganache.svg" width="48" height="48" alt="Ganache"/>
-<img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="48"/>
-<img src="https://cdn.simpleicons.org/solana/9945FF" height="48"/>
-<img src="https://cdn.simpleicons.org/polygon/8247E5" height="48"/>
-
-
-</p>
-
-### 03. DevOps
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="Digital Ocean" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azuredevops"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus"/>
-
-</p>
-
-### 04. CYBER Security
-
-<p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux"/>
 <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="48" alt="Parrot Security"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
@@ -141,25 +73,40 @@
 <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" alt="OpenVPN"/>
 <img src="https://cdn.simpleicons.org/torproject/7D4698" height="48" alt="Tor"/>
 <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="48" alt="Let's Encrypt"/>
-
 </p>
 
-### 05. DATABASES
-
+### 03 · DevOps
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="Digital Ocean" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azuredevops"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus"/>
+</p>
 
+### 04 · Databases
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
-
 </p>
 
-### 06. LANGUAGES
-
+### 05 · Programming Languages
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
@@ -167,26 +114,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm"/>
-
 </p>
 
-
-
-
-
----
-
-## 🧠 SYSTEM STATUS: ACTIVE
+## System Status
 
 ```bash
 [✔️] Brain loaded
@@ -195,31 +130,66 @@
 [⚡] Listening for next challenge...
 ```
 
-> 🧠 Powered by Code • Fueled by Curiosity • Guided by Purpose  
-> 🔁 Always Learning ∞ Always Teaching ∞ Always Building  
-> ✍️  Write on: [📓 notes.infinitydecoder.com](https://notes.infinitydecoder.com)  
-> 🌐 Cyber Identity: [🪪 profile.infinitydecoder.com](https://profile.infinitydecoder.com)
-
----
-## 🛰️ GITHUB BATTLE LOG 
-
-<h3 align="center">⚔️ COMBAT UPTIME</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity-decoder&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://notes.infinitydecoder.com"><img src="https://img.shields.io/badge/WRITING-Notes_%26_Articles-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read writing and articles" /></a>
+  &nbsp;&nbsp;
+  <a href="https://profile.infinitydecoder.com"><img src="https://img.shields.io/badge/DIGITAL_IDENTITY-Professional_Profile-0891B2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="View professional digital identity" /></a>
 </p>
 
-<h3 align="center">🗺️ BATTLEFIELD TELEMETRY</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinity-decoder&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
+## Organizations
 
-<h3 align="center">🎴 OFF-DUTY TRANSMISSION </h3>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dynamic Tech Joke" />
-</p>
+<table align="center" border="0" cellpadding="12" cellspacing="0" style="border: 0; border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="top" style="border: 0;">
+      <a href="https://github.com/INFINITYDECODER">
+        <img src="https://github.com/INFINITYDECODER.png" width="128" alt="INFINITYDECODER organization logo" />
+        <br />
+        <img src="https://img.shields.io/badge/INFINITYDECODER-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="INFINITYDECODER on GitHub" />
+      </a>
+    </td>
+    <td align="center" valign="top" style="border: 0;">
+      <a href="https://github.com/Owlopia">
+        <img src="https://github.com/Owlopia.png" width="128" alt="Owlopia organization logo" />
+        <br />
+        <img src="https://img.shields.io/badge/OWLOPIA-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Owlopia on GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## GitHub Activity
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <strong>Contribution Streak</strong><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity-decoder&theme=radical" width="420" alt="GitHub contribution streak" />
+    </td>
+    <td align="center" valign="top">
+      <strong>GitHub Statistics</strong><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=infinity-decoder&show_icons=true&theme=radical" width="420" alt="GitHub statistics" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Top Languages</strong><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-decoder&layout=compact&theme=radical" width="420" alt="Most used programming languages" />
+    </td>
+    <td align="center" valign="top">
+      <strong>Developer Humor</strong><br />
+      <img src="https://readme-jokes.vercel.app/api?theme=radical" width="420" alt="A random developer joke" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Contribution Summary</strong><br />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinity-decoder&theme=radical" width="700" alt="GitHub contribution summary" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infinity-decoder&color=blueviolet&style=flat-square" alt="Visitor Metric Counter" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6366F1,100:C4B5FD&height=155&section=footer&text=INFINITY%20DECODER&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=72&desc=BUILD%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20SECURE&descSize=14&descAlignY=88" alt="Infinity Decoder — Build, Automate, Secure" />
+  <img src="https://komarev.com/ghpvc/?username=infinity-decoder&color=7C3AED&style=for-the-badge" alt="Profile visitor count" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:EC4899&height=155&section=footer&text=INFINITY%20DECODER&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=72&desc=BUILD%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20SECURE&descSize=14&descAlignY=88" alt="Infinity Decoder — Build, Automate, Secure" />
 </p>
